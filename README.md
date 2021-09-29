@@ -1,4 +1,8 @@
-<img src="https://github-readme-stats.vercel.app/api?username=magnusviri&count_private=true&show_icons=true&include_all_commits=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnusviri" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=magnusviri&show_icons=true&include_all_commits=true" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnusviri&langs_count=8&layout=compact&exclude_repo=magnusviri.github.io" />
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magnusviri&repo=dockerfiles)](https://github.com/magnusviri/dockerfiless)
 
 <!--
 **magnusviri/magnusviri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
