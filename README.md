@@ -1,6 +1,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=magnusviri&show_icons=true&include_all_commits=true" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnusviri&langs_count=8&layout=compact&exclude_repo=magnusviri.github.io" />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magnusviri&repo=jctl)](https://github.com/magnusviri/jctl)
+[(https://github-readme-stats.vercel.app/api/pin/?username=magnusviri&repo=jctl)](https://github.com/magnusviri/jctl)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magnusviri&repo=python-jamf)](https://github.com/magnusviri/python-jamf)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magnusviri&repo=courses-frontend)](https://github.com/magnusviri/courses-frontend)
