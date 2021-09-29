@@ -34,14 +34,6 @@ Customizing the Terminal
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magnusviri&repo=dotfiles)](https://github.com/magnusviri/dotfiles)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magnusviri&repo=textart)](https://github.com/magnusviri/textart)
 
-Really old stuff
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magnusviri&repo=SetDisplay)](https://github.com/magnusviri/SetDisplay)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magnusviri&repo=perlplist)](https://github.com/magnusviri/perlplist)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magnusviri&repo=postfix_log_parse)](https://github.com/magnusviri/postfix_log_parse)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magnusviri&repo=radmind_scripts)](https://github.com/magnusviri/radmind_scripts)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magnusviri&repo=matrixUtil)](https://github.com/magnusviri/matrixUtil)
-
 <!--
 **magnusviri/magnusviri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
