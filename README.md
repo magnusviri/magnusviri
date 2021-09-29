@@ -27,7 +27,7 @@ Web stuff
 
 Raspberry Pi
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magnusviri&repo=timeline)](https://github.com/magnusviri/raspi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magnusviri&repo=raspi)](https://github.com/magnusviri/raspi)
 
 Customizing the Terminal
 
