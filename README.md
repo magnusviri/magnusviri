@@ -9,7 +9,7 @@ Jamf stuff
 macOS administration stuff
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magnusviri&repo=mak.py)](https://github.com/magnusviri/mak.py)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magnusviri&repo=plcat)](https://github.com/magnusviri/plcat)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magnusviri&repo=macos_scripts)](https://github.com/magnusviri/macos_scripts)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magnusviri&repo=svg2icns)](https://github.com/magnusviri/svg2icns)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magnusviri&repo=magnusviri-recipes)](https://github.com/magnusviri/magnusviri-recipes)
 
