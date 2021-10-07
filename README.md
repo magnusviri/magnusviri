@@ -12,6 +12,9 @@ macOS administration stuff
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magnusviri&repo=macos_scripts)](https://github.com/magnusviri/macos_scripts)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magnusviri&repo=svg2icns)](https://github.com/magnusviri/svg2icns)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magnusviri&repo=magnusviri-recipes)](https://github.com/magnusviri/magnusviri-recipes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magnusviri&repo=Arduino-keyboard) - MDS Automaton replacement script](https://github.com/magnusviri/Arduino-keyboard)
+
+
 
 Docker stuff
 
