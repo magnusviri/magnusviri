@@ -5,6 +5,7 @@ Jamf stuff
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magnusviri&repo=python-jamf)](https://github.com/magnusviri/python-jamf)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magnusviri&repo=jctl)](https://github.com/magnusviri/jctl)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magnusviri&repo=jamf_scripts)](https://github.com/magnusviri/jamf_scripts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magnusviri&repo=dockerfiles)](https://github.com/magnusviri/dockerfiles)
 
 macOS administration stuff
 
