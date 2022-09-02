@@ -1,1 +1,1 @@
-Alas, all good things must come to an end. As of July 2022 I am no longer going to use GitHub. Please see my website, [magnusviri.com](https://magnusviri.com), to see where I have moved all of my git projects (it will take me a while to find them a new home).
+
